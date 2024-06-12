@@ -3,8 +3,8 @@
 DeXchange is a console-based cryptocurrency exchange simulator built with C++17, aimed at providing a fun and educational experience for better understanding and grasping object-oriented programming concepts and memory management. It allows users to simulate various aspects of trading cryptocurrencies, providing a hands-on experience in a controlled environment.
 
 
-![DeXchange](https://github.com/deusbalatro/deXchange/raw/main/dexchange.png)
-)
+![DeXchange](https://github.com/deusbalatro/deXchange/main/dexchange.png)
+
 
 
 ## Features
